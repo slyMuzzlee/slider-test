@@ -1,0 +1,23 @@
+{
+  "name": "slider-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp start",
+    "build": "gulp build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {
+    "gulp.spritesmith": "^6.11.0",
+    "merge-stream": "^2.0.0",
+    "nouislider": "^14.6.2"
+  }
+}
